@@ -1,0 +1,44 @@
+
+body {
+    background-image: url(../imagenes/fondo.png);
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    background-color: rgba(128, 128, 128, 0.548);
+    border: solid;
+}
+
+#logo {
+    border-radius: 50%;
+}
+
+.bloque-fondo {
+    background-color: rgba(128, 128, 128, 0.548);
+    border: solid;
+}
+
+#contenido-seleccionado {
+    background-color: rgba(128, 128, 128, 0.548);
+    border: solid;
+}
+
+#contenido-lista button {
+    background-color: rgba(201, 10, 10, 0.844);
+    color: white; 
+    width: 20%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    padding: 5px;
+    border-style: none;
+    border-bottom-style: solid;
+    cursor: pointer;
+}
+ 
+#titulo {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
